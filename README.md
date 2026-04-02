@@ -1,2 +1,1 @@
-# HRFLOW-ORCHESTRATOR
-A workflow orchestration service for managing HR processes such as employee onboarding, offboarding, approvals, and lifecycle events with automation and scalability.
+Managing HR processes like onboarding, offboarding, and approvals across multiple systems is often manual, time-consuming, and prone to errors. To address this, HR Flow Orchestrator was developed using IIL to automate and streamline these workflows. It integrates seamlessly with enterprise systems through MuleSoft APIs, enabling smooth data exchange and coordination. The service handles end-to-end employee lifecycle events, reduces manual effort, improves accuracy, and ensures scalable and efficient HR operations.
